@@ -1,4 +1,4 @@
-### :wave: Hi, I am Jee-eun Lee (이지은) <[:house:](https://jeeeunlee.github.io/)|[:mortar_board:](https://scholar.google.com/citations?user=40I6sZIAAAAJ&hl=en)|[:page_facing_up:](https://github.com/jeeeunlee/jeeeunlee/CV_jelee_2023Mar.pdf)>
+### :wave: Hi, I am Jee-eun Lee (이지은) <[:house:](https://jeeeunlee.github.io/)|[:mortar_board:](https://scholar.google.com/citations?user=40I6sZIAAAAJ&hl=en)|[:page_facing_up:](https://github.com/jeeeunlee/jeeeunlee/blob/main/CV_jelee_2023Mar.pdf)>
 
 I am a **PhD** student in Aerospace Engineering and Engineering Mechanics at **UT Austin**, advised by Professor [Luis Sentis](https://sites.utexas.edu/hcrl/). My research interests lie in **Robotics**, focusing on Trajectory Optimization and Robot Representation Learning.
 
