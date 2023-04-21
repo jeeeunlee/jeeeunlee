@@ -23,7 +23,7 @@ ments,” in Proc. 16th International Symposium on Robotics, Research, Singapore
 ### :computer: Skills
 - **Language** : C/C++, Python, Matlab,
 - **Machine/Deep Learning** : PyTorch, TensorFlow, Keras
-- **Operating System: Window, Ubuntu, Xenomai
+- **Operating System**: Window, Ubuntu, Xenomai
 - **ETC** : ROS, Dart(Dnamics Engine), Pinocchio 
 
 <!--
