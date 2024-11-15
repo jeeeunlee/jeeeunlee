@@ -4,7 +4,7 @@ I am a **PhD** student in Aerospace Engineering and Engineering Mechanics at **U
 
 
 ### :page_facing_up: Publications
-- **Jee-eun Lee***, Andrew Bylard, Robert Sun, Luis Sentis, "Grasp Failure Constraints for Fast and Reliable Pick-and-Place Using Multi-Suction-Cup Grippers, ", submitted 2024
+- **Jee-eun Lee***, Andrew Bylard, Robert Sun, Luis Sentis, "Grasp Failure Constraints for Fast and Reliable Pick-and-Place Using Multi-Suction-Cup Grippers", submitted 2024
 - **Jee-eun Lee***, Andrew Bylard, Robert Sun, Luis Sentis, "On the Performance of Jerk-Constrained Time-Optimal Trajectory Planning for Industrial Manipulators", 2024 IEEE International Conference on Robotics and Automation (ICRA).
 - **Jee-Eun Lee***, Jaemin Lee, Tirthankar Bandyopadhyay, Luis Sentis, "Sample Efficient Dynamics Learning for Symmetrical Legged Robots: Leveraging Physics Invariance and Geometric Symmetries", 2023 IEEE International Conference on Robotics and Automation (ICRA).
 - **Jee-Eun Lee***, Tirthankar Bandyopadhyay, Luis Sentis, "Adaptive robot climbing with magnetic feet in unknown slippery structure", _Frontiers in Robotics and AI, 2022_
