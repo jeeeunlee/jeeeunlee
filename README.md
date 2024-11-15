@@ -4,8 +4,9 @@ I am a **PhD** student in Aerospace Engineering and Engineering Mechanics at **U
 
 
 ### :page_facing_up: Publications
-- **Jee-eun Lee***, Andrew Bylard, Robert Sun, Luis Sentis, "On the Performance of Jerk-Constrained Time-Optimal Trajectory Planning for Industrial Manipulators", _ICRA 2024 accepted_
-- **Jee-Eun Lee***, Jaemin Lee, Tirthankar Bandyopadhyay, Luis Sentis, "Sample Efficient Dynamics Learning for Symmetrical Legged Robots: Leveraging Physics Invariance and Geometric Symmetries", 2023 IEEE International Conference on Robotics and Automation (ICRA) (pp. 2995-3001). IEEE.
+- **Jee-eun Lee***, Andrew Bylard, Robert Sun, Luis Sentis, "Grasp Failure Constraints for Fast and Reliable Pick-and-Place Using Multi-Suction-Cup Grippers, ", submitted 2024
+- **Jee-eun Lee***, Andrew Bylard, Robert Sun, Luis Sentis, "On the Performance of Jerk-Constrained Time-Optimal Trajectory Planning for Industrial Manipulators", 2024 IEEE International Conference on Robotics and Automation (ICRA).
+- **Jee-Eun Lee***, Jaemin Lee, Tirthankar Bandyopadhyay, Luis Sentis, "Sample Efficient Dynamics Learning for Symmetrical Legged Robots: Leveraging Physics Invariance and Geometric Symmetries", 2023 IEEE International Conference on Robotics and Automation (ICRA).
 - **Jee-Eun Lee***, Tirthankar Bandyopadhyay, Luis Sentis, "Adaptive robot climbing with magnetic feet in unknown slippery structure", _Frontiers in Robotics and AI, 2022_
 - Shin, Mi K., Hua Qian, **Jee-Eun Lee**, Luis Sentis, and Silvia I. Maberti. "Estimating exposures from spray products using robotic simulations." Annals of Work Exposures and Health 67, no. 8 (2023): 979-989.
 - Riley Bowyer*, Jacob Oestrich, Noa Thouard, James Barker, **Jee Eun Lee**, Luis Sentis, Tirthankar Bandyopadhyay, ”In-Situ Foothold Evaluation for a Magnetic Climbing Robot”, Australasian Conference of Robotics and Automation, December 2021
@@ -15,10 +16,10 @@ I am a **PhD** student in Aerospace Engineering and Engineering Mechanics at **U
 
 
 ### :computer: Skills
-- **Language** : C/C++, Python, Matlab,
+- **Language** : C/C++, Python, Matlab, C++ CUDA
 - **Machine/Deep Learning** : PyTorch, TensorFlow, Keras
 - **Operating System**: Window, Ubuntu, Xenomai
-- **ETC** : ROS, Dart(Dnamics Engine), Pinocchio 
+- **ETC** : ROS, Mujoco, Pybullet, Dart(Physics Engine), TensorFlow, Stable-Baselines3(RL), Cublas, etc.
 
 <!--
 **jeeeunlee/jeeeunlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
